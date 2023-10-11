@@ -1,0 +1,20 @@
+.body {
+    background-image: url("protofoliofrontpage.jpg"); /* Use 'url()' to specify the image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.project-img{
+    height: 33vh;
+    border-radius: 10px;
+    margin-bottom: 40px;
+
+}
+
+.project-block{
+    width: 47vw;
+}

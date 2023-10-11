@@ -1,0 +1,18 @@
+body {
+    background-image: url("protofoliofrontpage.jpg"); /* Use 'url()' to specify the image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.paragraph{
+    padding: 10px;
+    margin-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.nonpara{
+    background-color: black;
+    width: 20px;
+    height: 100vh;
+}
